@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">A passionate student graduated in Cybernetic Engineering, eager to see the tech of tomorrow!</h3>
 
-<div style="display:flex;align-items:center;justify-content:space-evenly">
-  <div >&nbsp;<img width="80%" src="https://github-readme-stats.vercel.app/api?username=nicktaormina3&show_icons=true&locale=en&theme=transparent" alt="nicktaormina3" /></div>
+<div style="display:flex;align-items:center;justify-content:space-evenly;flex-basis: 45%;">
+  <div >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nicktaormina3&show_icons=true&locale=en&theme=transparent" alt="nicktaormina3" /></div>
 
-  <div ><img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicktaormina3&show_icons=true&locale=en&layout=compact&theme=transparent" alt="nicktaormina3" /></div>
+  <div ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicktaormina3&show_icons=true&locale=en&layout=compact&theme=transparent" alt="nicktaormina3" /></div>
 </div>
 <br>
 
