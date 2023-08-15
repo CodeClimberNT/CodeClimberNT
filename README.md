@@ -3,15 +3,13 @@
 <h3 align="center">I'm a tech passionate graduated in Cybernetic Engineering 🤖
 <br>Eager to see the tech of tomorrow!🚀</h3>
 
-<div style="text-align:center; display:flex; align-items:center;justify-content:space-evenly;">
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats" target=”_blank”>
-    <img align="center" style="margin:0 0.5vw;" src="https://github-readme-stats.vercel.app/api?username=nicktaormina3&show_icons=true&locale=en&theme=transparent" alt="nicktaormina3" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target=”_blank”>
-    <img align="center" style="margin:0 0.5vw;" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicktaormina3&show_icons=true&locale=en&layout=compact&theme=transparent" alt="nicktaormina3" />
-  </a>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats" target=”_blank”>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicktaormina3&show_icons=true&locale=en&theme=transparent" alt="nicktaormina3" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target=”_blank”>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicktaormina3&show_icons=true&locale=en&layout=compact&theme=transparent" alt="nicktaormina3" />
+</a>
+
 <br>
 
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicktaormina3&theme=darkhub" alt="nicktaormina3" /></a> </p>
@@ -44,4 +42,4 @@
 </p>
 
 [//]: # (Profile Views)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicktaormina3&label=Profile%20views&color=0e75b6&style=flat" alt="nicktaormina3" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nicktaormina3&label=Profile%20views&color=0e75b6&style=flat" alt="nicktaormina3" /> </p>
