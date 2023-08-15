@@ -4,21 +4,16 @@
 <br>Eager to see the tech of tomorrow!🚀</h3>
 
 
-## <a href="https://github.com/ryo-ma/github-profile-trophy"> 🏆 Github Profile Trophy</a>
-
-<p align="center" ><img style="height:170px;" src="https://github-profile-trophy.vercel.app/?username=nicktaormina3&theme=darkhub&no-bg=true&no-frame=true&column=-1&rank=-C,-B,-?" alt="nicktaormina3" /></p>
-
-
-
-
-## <a href="https://github.com/anuraghazra/github-readme-stats">🌟 GitHub Stats</h2></a>  
+## GitHub <a href="https://github.com/ryo-ma/github-profile-trophy">🏆Trophy</a> & <a href="https://github.com/anuraghazra/github-readme-stats">🌟Stats</a>
 
 <div align="center">
-<img style="height:170px;display:inline-block"  src="https://github-readme-stats.vercel.app/api?username=nicktaormina3&show_icons=true&locale=en&include_all_commits=true&theme=transparent">
+<img style="height:170px;" src="https://github-profile-trophy.vercel.app/?username=nicktaormina3&theme=darkhub&&margin-w=8&no-frame=true&column=-1&rank=-C,-B,-?" alt="nicktaormina3" />
+
+<img style="height:170px;display:inline-block"  src="https://github-readme-stats.vercel.app/api?username=nicktaormina3&show_icons=true&locale=en&include_all_commits=true&theme=github_dark&hide_border=true">
 &nbsp;
-&nbsp;
-<img style="height:170px;display:inline-block"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nicktaormina3&show_icons=true&locale=en&layout=compact&theme=transparent">
+<img style="height:170px;display:inline-block"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nicktaormina3&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true">
 </div>
+
 
 
 ## 🛠️Languages and Tools:
