@@ -14,9 +14,10 @@
 ## <a href="https://github.com/anuraghazra/github-readme-stats">🌟 GitHub Stats</h2></a>  
 
 <div align="center">
-<img style="margin:0 5px;height:170px;display:inline-block"  src="https://github-readme-stats.vercel.app/api?username=nicktaormina3&show_icons=true&locale=en&include_all_commits=true&theme=transparent">
-
-<img style="margin:0 5px;height:170px;display:inline-block"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nicktaormina3&show_icons=true&locale=en&layout=compact&theme=transparent">
+<img style="height:170px;display:inline-block"  src="https://github-readme-stats.vercel.app/api?username=nicktaormina3&show_icons=true&locale=en&include_all_commits=true&theme=transparent">
+&nbsp;
+&nbsp;
+<img style="height:170px;display:inline-block"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nicktaormina3&show_icons=true&locale=en&layout=compact&theme=transparent">
 </div>
 
 
