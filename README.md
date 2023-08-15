@@ -3,13 +3,14 @@
 <h3 align="center">I'm a tech passionate graduated in Cybernetic Engineering 🤖
 <br>Eager to see the tech of tomorrow!🚀</h3>
 
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats" target=”_blank”>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicktaormina3&show_icons=true&locale=en&theme=transparent" alt="nicktaormina3" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats" target=”_blank”>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicktaormina3&show_icons=true&locale=en&layout=compact&theme=transparent" alt="nicktaormina3" />
 </a>
-
+</div>
 <p></p>
 
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicktaormina3&theme=darkhub" alt="nicktaormina3" /></a> </p>
