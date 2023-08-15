@@ -4,7 +4,7 @@
 <br>Eager to see the tech of tomorrow!🚀</h3>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy" target=”_blank”><img src="https://github-profile-trophy.vercel.app/?username=nicktaormina3&theme=darkhub&no-bg=true&no-frame=true&column=-1" alt="nicktaormina3" /></a> </p>
+<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy" target=”_blank”><img src="https://github-profile-trophy.vercel.app/?username=nicktaormina3&theme=darkhub&no-bg=true&no-frame=true&column=-1&rank=-C,-B,-?" alt="nicktaormina3" /></a> </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><h2>🌟 GitHub Stats</h2></a>
 <div align="center">
