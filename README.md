@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">A passionate student graduated in Cybernetic Engineering, eager to see the tech of tomorrow!</h3>
 
-<div style="display:flex;align-items:center;justify-content:space-evenly;">
-  <div >&nbsp;<img style="max-width:40vw;margin:auto;" src="https://github-readme-stats.vercel.app/api?username=nicktaormina3&show_icons=true&locale=en&theme=transparent" alt="nicktaormina3" /></div>
-
-  <div ><img style="max-width:30vw; margin:auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicktaormina3&show_icons=true&locale=en&layout=compact&theme=transparent" alt="nicktaormina3" /></div>
+<div style="display:flex;align-items:center;justify-content:space-evenly;gap:1vw;">
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats" target=”_blank”>
+    <img  src="https://github-readme-stats.vercel.app/api?username=nicktaormina3&show_icons=true&locale=en&theme=transparent" alt="nicktaormina3" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target=”_blank”>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nicktaormina3&show_icons=true&locale=en&layout=compact&theme=transparent" alt="nicktaormina3" />
+  </a>
 </div>
 <br>
 
