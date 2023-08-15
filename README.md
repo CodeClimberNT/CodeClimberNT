@@ -3,27 +3,27 @@
 <h3 align="center">I'm a tech passionate graduated in Cybernetic Engineering 🤖
 <br>Eager to see the tech of tomorrow!🚀</h3>
 
-
-
+<section style="overflow: auto;">  
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy" target=”_blank”><img src="https://github-profile-trophy.vercel.app/?username=nicktaormina3&theme=darkhub&no-bg=true&no-frame=true&column=-1&rank=-C,-B,-?" alt="nicktaormina3" /></a> </p>
+</section>
 
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><h2>🌟 GitHub Stats</h2></a>
+<section style="overflow: auto;">  
+<a href="https://github.com/anuraghazra/github-readme-stats"><h2>🌟 GitHub Stats</h2></a>  
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" target=”_blank”>
-  <img height="165px" align="left" src="https://github-readme-stats.vercel.app/api?username=nicktaormina3&show_icons=true&locale=en&include_all_commits=true&theme=transparent" alt="nicktaormina3" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats" target=”_blank”>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicktaormina3&show_icons=true&locale=en&layout=compact&theme=transparent" alt="nicktaormina3" />
-</a>
-</div>
-<p></p>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target=”_blank”>
+      <img height="165px" align="left" src="https://github-readme-stats.vercel.app/api?username=nicktaormina3&show_icons=true&locale=en&include_all_commits=true&theme=transparent" alt="nicktaormina3" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target=”_blank”>
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicktaormina3&show_icons=true&locale=en&layout=compact&theme=transparent" alt="nicktaormina3" />
+    </a>
+  </div>
+</section>
 
 
 
-<h2 align="left">🛠️Languages and Tools:</h2>
+<h2>🛠️Languages and Tools:</h2>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
