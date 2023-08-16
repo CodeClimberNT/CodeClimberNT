@@ -7,11 +7,11 @@
 ## GitHub <a href="https://github.com/ryo-ma/github-profile-trophy">🏆Trophy</a> & <a href="https://github.com/anuraghazra/github-readme-stats">🌟Stats</a>
 
 <div align="center">
-<img style="height:170px;" src="https://github-profile-trophy.vercel.app/?username=nicktaormina3&theme=darkhub&&margin-w=8&&column=-1&rank=-C,-B,-?" alt="nicktaormina3" />
+<img style="height:170px;" src="https://github-profile-trophy.vercel.app/?username=CodeClimberNT&theme=darkhub&&margin-w=8&&column=-1&rank=-C,-B,-?" alt="CodeClimberNT" />
 
-<img style="height:170px;display:inline-block"  src="https://github-readme-stats.vercel.app/api?username=nicktaormina3&show_icons=true&locale=en&include_all_commits=true&theme=github_dark">
+<img style="height:170px;display:inline-block"  src="https://github-readme-stats.vercel.app/api?username=CodeClimberNT&show_icons=true&locale=en&include_all_commits=true&theme=github_dark">
 &nbsp;
-<img style="height:170px;display:inline-block"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nicktaormina3&show_icons=true&locale=en&layout=compact&theme=github_dark">
+<img style="height:170px;display:inline-block"  src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeClimberNT&show_icons=true&locale=en&layout=compact&theme=github_dark">
 </div>
 
 
@@ -42,4 +42,4 @@
 
 
 [//]: # (Profile Views)
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=nicktaormina3&label=Profile%20views&color=374966&style=flat" alt="nicktaormina3" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=CodeClimberNT&label=Profile%20views&color=374966&style=flat" alt="CodeClimberNT" /> </p>
