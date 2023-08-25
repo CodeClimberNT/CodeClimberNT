@@ -38,7 +38,8 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 </div>
 
-
+<br>
+<br>
 
 [//]: # (Profile Views)
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=CodeClimberNT&label=Profile%20views&color=374966&style=flat" alt="CodeClimberNT" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CodeClimberNT&label=Profile%20views&color=blue&style=for-the-badge" alt="CodeClimberNT" /> </p>
