@@ -1,22 +1,19 @@
-<h1 align="center">Hi 👋, I'm Nick</h1>
+<h1 align="center">Hi :wave:, I'm Nick</h1>
 
-<h3 align="center">I'm a tech passionate graduated in Cybernetic Engineering 🤖
-<br>Eager to see the tech of tomorrow!🚀</h3>
-
-
-## GitHub <a href="https://github.com/ryo-ma/github-profile-trophy">🏆Trophy</a> & <a href="https://github.com/anuraghazra/github-readme-stats">🌟Stats</a>
-
-<div align="center">
-<img style="height:170px;" src="https://github-profile-trophy.vercel.app/?username=CodeClimberNT&theme=darkhub&&margin-w=8&&column=-1&rank=-C,-B,-?" alt="CodeClimberNT" />
-
-<img style="height:170px;display:inline-block"  src="https://github-readme-stats.vercel.app/api?username=CodeClimberNT&show_icons=true&locale=en&include_all_commits=true&theme=github_dark">
-&nbsp;
-<img style="height:170px;display:inline-block"  src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeClimberNT&show_icons=true&locale=en&layout=compact&theme=github_dark">
-</div>
+<h3 align="center">I'm a tech passionate graduated in Cybernetic Engineering 🤖<br>
+Eager to see the tech of tomorrow!🚀</h3>
 
 
+## :octocat: GitHub <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">Profile Sumamry</a>
 
-## 🛠️Languages and Tools:
+<p align="center">
+   <img style="height:170px;display:inline-block"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeClimberNT&theme=github_dark" />
+   <img style="height:170px;display:inline-block"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeClimberNT&theme=github_dark&exclude=" />
+</p>
+
+ 
+
+## 🛠️ Languages and Tools:
 
 <div align="left" style="background-color:#374963;display:inline-block;border-radius:50% 20% / 10% 40%;padding:15px"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
