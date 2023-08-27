@@ -4,7 +4,7 @@
 Eager to see the tech of tomorrow!🚀</h3>
 
 
-## :octocat: GitHub <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">Profile Sumamry</a>
+## :octocat: GitHub <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">Profile Sumamry</a>
 
 <p align="center">
    <img style="height:170px;display:inline-block"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeClimberNT&theme=github_dark" />
