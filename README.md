@@ -8,7 +8,7 @@ Eager to see the tech of tomorrow!🚀</h3>
 
 <p align="center">
    <img style="height:170px;display:inline-block"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeClimberNT&theme=github_dark" />
-   <img style="height:170px;display:inline-block"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeClimberNT&theme=github_dark&exclude=" />
+<!--    <img style="height:170px;display:inline-block"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeClimberNT&theme=github_dark&exclude=" /> -->
 </p>
 
  
