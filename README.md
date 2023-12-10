@@ -1,7 +1,7 @@
 <h1 align="center">Hi :wave:, I'm Nick</h1>
 
 <h3 align="center">I'm a tech passionate graduated in Cybernetic Engineering 🤖<br>
-Eager to see the tech of tomorrow!🚀</h3>
+Now studying Artificial Intelligence! 🧠</h3>
 
 
 ## :octocat: GitHub <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">Profile Sumamry</a>
