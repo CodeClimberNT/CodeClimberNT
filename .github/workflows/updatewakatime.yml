@@ -1,8 +1,10 @@
 name: WakaTime status update
-
 on:
+  push:
+    branches: [main]
   schedule:
-    - cron: "0 0 * * *"
+  # 12 am UTC converted with my time zone
+    - cron: "0 2 * * *"
 
 jobs:
   update-readme:
