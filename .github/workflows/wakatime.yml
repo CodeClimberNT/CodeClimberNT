@@ -25,5 +25,5 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROJECTS: "True"
           SHOW_LANGUAGE_PER_REPO: "False"
-          SYMBOL_VERSION: "2"
+          SYMBOL_VERSION: "1"
           DEBUG_LOGGING: "True"
