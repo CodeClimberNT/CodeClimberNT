@@ -12,10 +12,9 @@ Now studying Artificial Intelligence! 🧠</h3>
 </p>
 
  ## My Coding Time 🕒
- <img
-  src="https://github.com/CodeClimberNT/CodeClimberNT/blob/main/images/stat.svg"
-  alt="CodeClimberNT WakaTime Activity"
-/>
+ 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ## 🛠️ Languages and Tools:
