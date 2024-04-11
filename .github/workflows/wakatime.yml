@@ -3,6 +3,9 @@ name: Waka Readme
 on:
   push:
     branches: [main]
+    paths:
+    # run manually when modify this file
+      - '.github/workflows/wakatime.yml'
   schedule:
     # Runs at 2am UTC
     - cron: '2 0 * * *'
@@ -16,12 +19,12 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_PROJECTS: "False"
+          # SHOW_PROJECTS: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_SHORT_INFO: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           IGNORED_REPOS: "pds-os161"
-          SYMBOL_VERSION: "2"
+          SYMBOL_VERSION: "3"
           SHOW_LOC_CHART: "False"
           DEBUG_LOGGING: "True"
