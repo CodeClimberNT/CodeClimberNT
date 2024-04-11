@@ -11,7 +11,12 @@ Now studying Artificial Intelligence! 🧠</h3>
 <!--    <img style="height:170px;display:inline-block"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeClimberNT&theme=github_dark&exclude=" /> -->
 </p>
 
- 
+ ## My Coding Time 🕒
+ <img
+  src="https://github.com/CodeClimberNT/CodeClimberNT/blob/main/images/stat.svg"
+  alt="CodeClimberNT WakaTime Activity"
+/>
+
 
 ## 🛠️ Languages and Tools:
 
