@@ -11,7 +11,7 @@ Now studying Artificial Intelligence! 🧠</h3>
 <!--    <img style="height:170px;display:inline-block"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeClimberNT&theme=github_dark&exclude=" /> -->
 </p>
 
- ## My Coding Time 🕒
+ ## :clock3: My Coding Time 
  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2027%20mins-blue)
