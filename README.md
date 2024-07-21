@@ -45,20 +45,19 @@ Sunday                   196 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   32 mins             ██████████████████░░░░░░░   71.05 % 
-Text                     13 mins             ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  46 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Machine-Learning-PoliTo  46 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  46 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 20/07/2024 01:16:00 UTC
+ Last Updated on 21/07/2024 01:22:50 UTC
 <!--END_SECTION:waka-->
 
