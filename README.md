@@ -45,21 +45,19 @@ Sunday                   209 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-JavaScript               6 mins              ██████████████████████░░░   86.04 % 
-Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-esame1-gioco-meme-CodeCli7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/07/2024 01:05:10 UTC
+ Last Updated on 01/08/2024 01:24:18 UTC
 <!--END_SECTION:waka-->
 
