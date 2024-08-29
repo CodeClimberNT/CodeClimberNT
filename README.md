@@ -14,7 +14,7 @@ Now studying Artificial Intelligence! 🧠</h3>
  ## :clock3: My Coding Time 
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
@@ -45,20 +45,20 @@ Sunday                   218 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     12 mins             ███████████████████████░░   90.98 % 
-JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Java                     21 mins             ██████████████████████░░░   86.96 % 
+JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
 
 🔥 Editors: 
-IntelliJ IDEA            13 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-NeoForge-Tutorial-1.21.X 13 mins             █████████████████████████   100.00 % 
+NeoForge-Tutorial-1.21.X 24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+Windows                  24 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/08/2024 01:22:03 UTC
+ Last Updated on 29/08/2024 01:22:09 UTC
 <!--END_SECTION:waka-->
 
