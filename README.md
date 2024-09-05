@@ -45,20 +45,19 @@ Sunday                   218 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     8 mins              ████████████████████░░░░░   81.82 % 
-JSON                     1 min               █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-NeoForge-Tutorial-1.21.X 10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 04/09/2024 01:22:56 UTC
+ Last Updated on 05/09/2024 01:23:27 UTC
 <!--END_SECTION:waka-->
 
