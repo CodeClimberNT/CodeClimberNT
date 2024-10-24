@@ -14,7 +14,7 @@ Now studying Artificial Intelligence! 🧠</h3>
  ## :clock3: My Coding Time 
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
@@ -45,19 +45,20 @@ Sunday                   201 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-YAML                     24 mins             █████████████████████████   100.00 % 
+YAML                     1 hr 11 mins        █████████████████████░░░░   83.75 % 
+Other                    13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 25 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-traefik                  24 mins             █████████████████████████   100.00 % 
+traefik                  1 hr 25 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    24 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/10/2024 01:27:35 UTC
+ Last Updated on 24/10/2024 01:27:23 UTC
 <!--END_SECTION:waka-->
 
