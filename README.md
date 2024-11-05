@@ -14,9 +14,50 @@ Now studying Artificial Intelligence! 🧠</h3>
  ## :clock3: My Coding Time 
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2036%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
+**I'm an Early 🐤** 
 
- Last Updated on 04/11/2024 01:37:24 UTC
+```text
+🌞 Morning                315 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+🌆 Daytime                869 commits         ███████████░░░░░░░░░░░░░░   43.34 % 
+🌃 Evening                678 commits         ████████░░░░░░░░░░░░░░░░░   33.82 % 
+🌙 Night                  143 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   289 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Tuesday                  326 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Wednesday                263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Thursday                 439 commits         █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+Friday                   234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Saturday                 253 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Sunday                   201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 05/11/2024 01:26:19 UTC
 <!--END_SECTION:waka-->
 
