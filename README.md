@@ -45,21 +45,19 @@ Sunday                   1308 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-PowerShell               7 mins              █████████████░░░░░░░░░░░░   52.47 % 
-Python                   6 mins              ████████████░░░░░░░░░░░░░   47.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-PowerShell               7 mins              █████████████░░░░░░░░░░░░   52.47 % 
-tesi-code                6 mins              ████████████░░░░░░░░░░░░░   47.53 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 19/08/2025 01:51:07 UTC
+ Last Updated on 20/08/2025 01:50:47 UTC
 <!--END_SECTION:waka-->
 
