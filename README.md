@@ -1,4 +1,4 @@
-<h1 align="center">Hi :wave:, I'm Nick</h1>
+<h1 align="center">:wave: Hi, I'm Nick</h1>
 
 <h3 align="center">I'm a tech passionate graduated in Cybernetic Engineering 🤖<br>
 Now studying Artificial Intelligence! 🧠</h3>
