@@ -14,7 +14,7 @@ Now studying Artificial Intelligence! 🧠</h3>
  ## :clock3: My Coding Time 
  
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.36%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.36%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -38,6 +38,6 @@ Sunday                   1344 commits        █████░░░░░░�
 
 
 
- Last Updated on 05/01/2026 02:11:42 UTC
+ Last Updated on 06/01/2026 02:01:57 UTC
 <!--END_SECTION:waka-->
 
