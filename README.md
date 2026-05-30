@@ -16,7 +16,28 @@ Now studying Artificial Intelligence! 🧠</h3>
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-127.63%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 29/05/2026 04:01:50 UTC
+```text
+🌞 Morning                1304 commits        ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+🌆 Daytime                2406 commits        ██████████░░░░░░░░░░░░░░░   40.68 % 
+🌃 Evening                1981 commits        ████████░░░░░░░░░░░░░░░░░   33.50 % 
+🌙 Night                  223 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   731 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Tuesday                  725 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Wednesday                1093 commits        █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+Thursday                 1066 commits        █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Friday                   740 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Saturday                 739 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Sunday                   820 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+```
+
+
+
+ Last Updated on 30/05/2026 03:46:49 UTC
 <!--END_SECTION:waka-->
 
